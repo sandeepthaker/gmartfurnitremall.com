@@ -1,0 +1,10 @@
+{
+  "project_name": "Coming soon template",
+  "project_description": "Coming soon template for gmartfurnituremall.com.",
+  "show_files": [
+    "index.html",
+    "app.yaml"
+  ],
+  "read_only_demo_url": "https://try-php-demo-dot-cloud-playground.appspot.com/",
+  "download_filename": "appengine-try-php.zip"
+}
